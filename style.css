@@ -1,0 +1,80 @@
+/
+/* Name: Falak Naz | Roll Number: i263138 | Section: C */
+
+body {
+    background-color: #FFF8EF;
+    color: #6F4E37;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: #6F4E37;
+    color: white;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+nav {
+    background-color: #D2A679;
+    padding: 15px;
+}
+
+nav a {
+    color: #4A2C20;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+section {
+    padding: 25px;
+    margin: 20px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 12px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid #6F4E37;
+    padding: 12px;
+}
+
+th {
+    background-color: #6F4E37;
+    color: white;
+}
+
+button {
+    background-color: #6F4E37;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #A07855;
+}
+
+footer {
+    background-color: #6F4E37;
+    color: white;
+    padding: 15px;
+}
+
